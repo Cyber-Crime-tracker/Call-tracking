@@ -3,7 +3,7 @@ function ss(){
 			var b=document.getElementById("demo2").value;
 			
 			
-			if(a=="Aa"){
+			if(a=="A1KTTMJF"){
 				document.getElementById("demo1").innerHTML="<audio id=jana controls controlsList=nodownload><source src=call/sandeep.mp3 type=audio/mp3></audio><div style=text-align:left id=man><p>Call tracked by <p id=rrr style=font-weight:bold>K.AFREEN (Network Hacker)</p></p><br><p id=rrr>Tracked Date: 14/07/2019</p><br><p id=rrr>Type: Outgoing</p><br><p id=rrr>Duration: 00:13:32</p></div>";
 				
 				
@@ -17,7 +17,7 @@ function ss(){
 				
 			}
 			
-			else if(a=="A"){
+			else if(a=="061998"){
 			
 				document.getElementById("demo1").innerHTML="<audio controls id=jana controlsList=nodownload><source src=call/priya1.mp3 type=audio/mp3></audio><div style=text-align:left id=man><p>Call tracked by <p id=rrr style=font-weight:bold>K.AFREEN (Network Hacker)</p></p><br><p id=rrr>Tracked Date: 14/07/2019</p><br><p id=rrr>Type: Outgoing</p><br><p id=rrr>Duration: 00:13:32</p></div>";
 			
