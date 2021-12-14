@@ -19,7 +19,7 @@ function ss(){
 			
 			else if(a=="A"){
 			
-				document.getElementById("demo1").innerHTML="<audio controls id=jana><source src=call/priya1.mp3 type=audio/mp3></audio><div style=text-align:left;padding-left:200px><p>Call tracked by <p style=font-weight:bold>K.AFREEN (Network Hacker)</p></p><br><p>Tracked Date: 12/02/2021</p><br><p>Type: Outgoing</p><br><p>Duration: 00:15:41</p></div>";
+				document.getElementById("demo1").innerHTML="<audio controls id=jana controlsList=nodownload><source src=call/priya1.mp3 type=audio/mp3></audio><div style=text-align:left id=man><p>Call tracked by <p id=rrr style=font-weight:bold>K.AFREEN (Network Hacker)</p></p><br><p id=rrr>Tracked Date: 14/07/2019</p><br><p id=rrr>Type: Outgoing</p><br><p id=rrr>Duration: 00:13:32</p></div>";
 			
 			}
 			
