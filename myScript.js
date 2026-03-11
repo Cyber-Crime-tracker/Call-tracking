@@ -12,7 +12,7 @@ function ss(){
 			
 			else if(a=="F7C7F591" && b=="192.168.27.70"){
 				
-				document.getElementById("demo1").innerHTML="<audio id=jana controls controlsList=nodownload><source src=call/kavya2.mp3 type=audio/mp3></audio><div style=text-align:left;padding-left:200px><p>Call tracked by <p style=font-weight:bold>K.AFREEN (Network Hacker)</p></p><br><p>Tracked Date: 22/Sep/2022</p><br><p>Type: Incoming</p><br><p>Duration: 00:02:40</p></div>";
+				document.getElementById("demo1").innerHTML="<audio id=jana controls controlsList=nodownload><source src=call/kavya2.mp4 type=audio/mp4></audio><div style=text-align:left;padding-left:200px><p>Call tracked by <p style=font-weight:bold>K.AFREEN (Network Hacker)</p></p><br><p>Tracked Date: 22/Sep/2022</p><br><p>Type: Incoming</p><br><p>Duration: 00:02:40</p></div>";
 				
 				
 			}
